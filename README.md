@@ -2,7 +2,7 @@
 <html>
 <body>
 <h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
+<p>This is the future home of root:rise well's website.</p>
 </body>
 </html>
 
