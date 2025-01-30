@@ -1,16 +1,14 @@
 <!DOCTYPE html>
 <html>
-<body>
-<body>
-    <p>This is sample paragraph</p>
-    <font face="New Kansas" size="4" color="green">
-        This paragrap style by font tag
-    </font>
-</body>
-  
-  <h1>Hello World</h1>
-<p>This is the future home of root:rise well's website.</p>
-</body>
+<head><style>.wf-force-outline-none[tabindex="-1"]:focus{outline:none;}</style><meta charset="utf-8"><title>New Valley Labs | Where Founders Bloom</title><meta content="New Valley Labs is a founder-focused startup studio. We partner with visionary founders to accelerate their journey from 0 to 1, and beyond." name="description"><meta content="New Valley Labs | Where Founders Bloom" property="og:title"><meta content="New Valley Labs is a founder-focused startup studio. We partner with visionary founders to accelerate their journey from 0 to 1, and beyond." property="og:description"><meta content="https://cdn.prod.website-files.com/670e9a57755e2542655f18cd/672263049780b9134f03eb78_SEO%20Image.png" property="og:image"><meta content="New Valley Labs | Where Founders Bloom" property="twitter:title"><meta content="New Valley Labs is a founder-focused startup studio. We partner with visionary founders to accelerate their journey from 0 to 1, and beyond." property="twitter:description"><meta content="https://cdn.prod.website-files.com/670e9a57755e2542655f18cd/672263049780b9134f03eb78_SEO%20Image.png" property="twitter:image"><meta property="og:type" content="website"><meta content="summary_large_image" name="twitter:card"><meta content="width=device-width, initial-scale=1" name="viewport"><meta content="Webflow" name="generator"><link href="https://cdn.prod.website-files.com/670e9a57755e2542655f18cd/css/new-valley-labs.webflow.7636c7aaa.css" rel="stylesheet" type="text/css"><link href="https://fonts.googleapis.com" rel="preconnect"><link href="https://fonts.gstatic.com" rel="preconnect" crossorigin="anonymous"><script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Work+Sans:200,300,regular,500,600,700,800,200italic,300italic,italic,500italic,600italic,700italic,800italic" media="all"><script type="text/javascript">WebFont.load({  google: {    families: ["Work Sans:200,300,regular,500,600,700,800,200italic,300italic,italic,500italic,600italic,700italic,800italic"]  }});</script><script type="text/javascript">!function(o,c){var n=c.documentElement,t=" w-mod-";n.className+=t+"js",("ontouchstart"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+"touch")}(window,document);</script><link href="https://cdn.prod.website-files.com/670e9a57755e2542655f18cd/672255b0c76c823730956df5_Favicon.png" rel="shortcut icon" type="image/x-icon"><link href="https://cdn.prod.website-files.com/670e9a57755e2542655f18cd/67225590c5eef75a339e9ce7_Webclip.png" rel="apple-touch-icon"><!-- Keep this css code to improve the font quality-->
+<style>
+  * {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -o-font-smoothing: antialiased;
+  -webkit-appearance:none;
+}
+</style></head>
 </html>
 
 
